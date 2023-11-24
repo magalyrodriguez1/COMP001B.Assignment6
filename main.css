@@ -41,10 +41,6 @@ header {
 	text-align: center;
 }
 
-main {
-
-}
-
 p {
 	line-height: 140%;
 	margin-bottom: 1em;
@@ -54,17 +50,6 @@ p {
 	font-size: 22px;
 }
 
-#automotive, #maritime, #medical, #physics, #myths {
-
-}
-
-#footer-container {
-	
-}
-
-#header-container {
-
-}
 
 #main-container {
 	display: grid;
