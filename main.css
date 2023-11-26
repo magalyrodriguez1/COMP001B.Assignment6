@@ -50,8 +50,15 @@ p {
 	font-size: 22px;
 }
 
+#header-container{
+
+}
 
 #main-container {
 	display: grid;
+	/*creates 3 columns; fr = fraction of the width; separated as header main footer in this case*/
 	grid-template-columns: 1fr 2fr 1fr;
+
+	/*creates a gap between columns so they are not smushed together*/
+	column-gap: 20px;
 }
